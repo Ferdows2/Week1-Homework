@@ -4,16 +4,17 @@
 
 	Ripple is a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc., a US-based technology company. Released in 2012
 
-* Name of company \
+* Name of company 
 
+<br>
 	Ripple (payment protocol)
 
-* When was the company incorporated \
-
+* When was the company incorporated 
+<br>
 	Released in 2012,
-
-* Who are the founders of the company \
-
+<br>
+* Who are the founders of the company 
+<br>
 	Ripple was conceived by Jed McCaleb and built by Arthur Britto, David Schwartz and Ryan Fugger.
 
 * How did the idea for the company (or project) come about?
